@@ -42,11 +42,10 @@ $(function() {
         selector: '.brick',
         draggable: false,
         animate: true,
-        cellW: 160,
-        cellH: 160,
-        fixSize: null,
+        cellW: 20,
+        cellH: 200,
         onResize: function() {
-            wall.refresh();
+            wall.fitWidth();
         }
     });
 
@@ -62,4 +61,5 @@ $(function() {
     });
 
     wall.fitWidth();
+
 });
