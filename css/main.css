@@ -174,10 +174,52 @@ footer .footer-below {
 /*===================*/
 
 
-.one {
-    background-image: url('../img/1.jpg');
+.two {
+    background-image: url('../img/2.jpg');
+    width: 600px;
+    height: 284px;
+}
+
+.three {
+    background-image: url('../img/3.jpg');
+    width: 400px;
+    height: 427px;
+}
+
+.four {
+    background-image: url('../img/4.jpg');
+    width: 400px;
+    height: 448px;
+}
+
+.five {
+    background-image: url('../img/5.jpg');
     width: 300px;
-    height: 200px;
+    height: 448px;
+}
+
+.eight {
+    background-image: url('../img/8.jpg');
+    width: 300px;
+    height: 453px;
+}
+
+.nine {
+    background-image: url('../img/9.jpg');
+    width: 300px;
+    height: 199px;
+}
+
+.one {
+    background-image: url('../img/15.jpg');
+    width: 300px;
+    height: 429px;
+}
+
+.seventeen {
+    background-image: url('../img/17.jpg');
+    width: 400px;
+    height: 253px;
 }
 
 .header {
