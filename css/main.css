@@ -173,6 +173,12 @@ footer .footer-below {
 
 /*======== Freewall pics ===========*/
 
+.one {
+    background-image: url('../img/1.jpg');
+    width: 350px;
+    height: 223px;
+}
+
 .two {
     background-image: url('../img/2.jpg');
     width: 600px;
@@ -197,6 +203,18 @@ footer .footer-below {
     height: 448px;
 }
 
+.six {
+    background-image: url('../img/6.jpg');
+    width: 400px;
+    height: 604px;
+}
+
+.seven {
+    background-image: url('../img/7.jpg');
+    width: 400px;
+    height: 604px;
+}
+
 .eight {
     background-image: url('../img/8.jpg');
     width: 300px;
@@ -209,7 +227,25 @@ footer .footer-below {
     height: 199px;
 }
 
-.one {
+.ten {
+    background-image: url('../img/10.jpg');
+    width: 500px;
+    height: 331px;
+}
+
+.thirteen {
+    background-image: url('../img/13.jpg');
+    width: 400px;
+    height: 265px;
+}
+
+.fourteen {
+    background-image: url('../img/14.jpg');
+    width: 400px;
+    height: 265px;
+}
+
+.fifteen {
     background-image: url('../img/15.jpg');
     width: 300px;
     height: 429px;
@@ -219,6 +255,12 @@ footer .footer-below {
     background-image: url('../img/17.jpg');
     width: 400px;
     height: 253px;
+}
+
+.twenty-one {
+    background-image: url('../img/21.jpg');
+    width: 300px;
+    height: 468px;
 }
 
 .header {
