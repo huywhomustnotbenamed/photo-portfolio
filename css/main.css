@@ -174,38 +174,8 @@ footer .footer-below {
 /*===================*/
 
 
-.pic-one {
+.one {
     background-image: url('../img/1.jpg');
-    width: 300px;
-    height: 200px;
-}
-
-.pic-two {
-    background-image: url('../img/2.jpg');
-    width: 300px;
-    height: 420px;
-}
-
-.pic-three {
-    background-image: url('../img/3.jpg');
-    width: 420px;
-    height: 300px;
-}
-
-.pic-four {
-    background-image: url('../img/4.jpg');
-    width: 400px;
-    height: 212px;
-}
-
-.pic-five {
-    background-image: url('../img/5.jpg');
-    width: 300px;
-    height: 200px;
-}
-
-.pic-six {
-    background-image: url('../img/6.jpg');
     width: 300px;
     height: 200px;
 }
