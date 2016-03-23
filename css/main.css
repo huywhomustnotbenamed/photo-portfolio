@@ -233,6 +233,18 @@ footer .footer-below {
     height: 331px;
 }
 
+.eleven {
+    background-image: url('../img/11.jpg');
+    width: 350px;
+    height: 232px;
+}
+
+.twelve {
+    background-image: url('../img/12.jpg');
+    width: 400px;
+    height: 268px;
+}
+
 .thirteen {
     background-image: url('../img/13.jpg');
     width: 400px;
