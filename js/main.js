@@ -36,3 +36,30 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+$(function() {
+    var wall = new Freewall("#freewall");
+    wall.reset({
+        selector: '.brick',
+        draggable: false,
+        animate: true,
+        cellW: 160,
+        cellH: 160,
+        fixSize: null,
+        onResize: function() {
+            wall.refresh();
+        }
+    });
+
+    wall.filter("");
+    $(".filter-label").click(function() {
+        $(".filter-label").removeClass("active");
+        var filter = $(this).addClass('active').data('filter');
+        if (filter) {
+            wall.filter(filter);
+        } else {
+            wall.unFilter();
+        }
+    });
+
+    wall.fitWidth();
+});
