@@ -87,12 +87,20 @@ h6 {
     margin-bottom: 20px;
 }
 
+#about h2 {
+    margin-bottom: 30px;
+}
+
+footer h2 {
+    margin-bottom: 20px;
+}
+
 section {
     padding: 100px 0;
 }
 
-section h2 {
-    margin: 0;
+section h2,
+footer h2 {
     font-size: 3em;
 }
 
