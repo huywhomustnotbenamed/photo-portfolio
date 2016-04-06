@@ -109,7 +109,11 @@ section.success {
     background: #303236;
 }
 
-section.success a,
+section.success a {
+    color: #fff;
+}
+
+
 section.success a:hover,
 section.success a:focus,
 section.success a:active,
