@@ -289,10 +289,22 @@ footer .footer-below {
     height: 429px;
 }
 
+.sixteen {
+    background-image: url('../img/16.jpg');
+    width: 400px;
+    height: 604px;
+}
+
 .seventeen {
     background-image: url('../img/17.jpg');
     width: 400px;
     height: 253px;
+}
+
+.eighteen {
+    background-image: url('../img/18.jpg');
+    width: 400px;
+    height: 265px;
 }
 
 .twenty-one {
