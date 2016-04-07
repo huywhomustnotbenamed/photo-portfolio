@@ -307,6 +307,12 @@ footer .footer-below {
     height: 265px;
 }
 
+.nineteen {
+    background-image: url('../img/19.jpg');
+    width: 500px;
+    height: 373px;
+}
+
 .twenty-one {
     background-image: url('../img/21.jpg');
     width: 300px;
